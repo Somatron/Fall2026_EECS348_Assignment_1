@@ -1,5 +1,5 @@
 /*
-    Program name: Gemini.c
+    Program name: EditedGemini.c
     Description: A C number guessing game that has the user guess
     the number between 1-10, with the user having up to 3 attempts
     to guess the number correctly.
